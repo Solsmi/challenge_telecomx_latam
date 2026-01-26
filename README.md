@@ -60,5 +60,3 @@ Para ejecutar este *notebook* y replicar el análisis, sigue estos pasos:
 1.  **Abre el *notebook* en Google Colab:** Accede al archivo `.ipynb` desde tu cuenta de Google Drive o GitHub.
 2.  **Ejecuta todas las celdas en orden:** Puedes hacerlo utilizando la opción **Ejecutar todas** del menú **Entorno de ejecución**. Esto cargará los datos, realizará la limpieza, las transformaciones y generará todos los gráficos y análisis presentados.
 3.  **Visualiza los resultados:** Los *insights* y las visualizaciones se mostrarán a lo largo del *notebook*, así como en la sección final de conclusiones.
-
-"""
